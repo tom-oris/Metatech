@@ -5,9 +5,11 @@
     "website": "http://metatechsolutions.vn/",
     "depends": [
         "sale_management",
+        "approvals"
     ],
     "data": [
         "views/sale_order_views.xml",
+        "views/approval_product_line_views.xml",
     ],
     "license": "OEEL-1",
 }
